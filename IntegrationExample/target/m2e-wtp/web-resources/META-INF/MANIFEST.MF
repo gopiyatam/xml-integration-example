@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: sandeep
+Build-Jdk: 10.0.2
+Implementation-Title: IntegrationExample
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.Integration.Example
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
